@@ -1,7 +1,7 @@
 #!/bin/bash
 
-TOKEN_API="748385839:AAH_EHidj-rm_rnc1BmNbRLgK6ydXYyHHSE"
-CHAT_ID="-372610282"
+TOKEN_API=
+CHAT_ID=
 msg=$* #debug
 
 send_message() {
