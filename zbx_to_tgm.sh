@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #zabbix variables
-USER="user"
-PASS="password"
+USER="user_test_alpha"
+PASS="password_test_alpha"
 URL="https://examle.com"
 COOKIE="/tmp/zabbix_c.tmp"
 UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
